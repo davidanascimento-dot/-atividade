@@ -7,7 +7,7 @@
 1. 	Visão de Produto;
 2. Metodologias
 # Exemplo Crisp DM
-# **Padrão de Excelência**
+# ** Padrão de Excelência**
 # ** Engenharia de Documentação**: Markdown e GIT
 
 #Memoirial calculo - Analise de Segurança
@@ -16,6 +16,7 @@
 
 ## Fonte dos dados 
 - Planilha orçamentária do cliente
--Memorial do cálculo (PDF)
+- Memorial do cálculo (PDF)
 
-##objetivo
+## objetivo
+
